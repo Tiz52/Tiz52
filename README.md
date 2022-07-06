@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/25crls" target="blank"><img src="https://img.shields.io/twitter/follow/25crls?logo=twitter&style=for-the-badge" alt="25crls" /></a> </p>
 
-- 🔭 I’m currently working on **Dark Cómics - Ecommerce**
+- 🔭 I’m currently working on **Notes - Note-taking app**
 
 - 🌱 I’m currently learning **Flutter and GraphQl**
 
