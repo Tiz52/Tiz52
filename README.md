@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Notes - Note-taking app**
 
-- 🌱 I’m currently learning **Flutter and GraphQl**
+- 🌱 I’m currently learning **Flutter and NestJS**
 
 - 💬 Ask me about **React, React Native and Next.js**
 
