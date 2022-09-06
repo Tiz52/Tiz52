@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">A passionate frontend developer from Perú</h3>
+<h3 align="center">FullStack developer from Perú</h3>
 
 <p align="left"> <a href="https://twitter.com/25crls" target="blank"><img src="https://img.shields.io/twitter/follow/25crls?logo=twitter&style=for-the-badge" alt="25crls" /></a> </p>
 
