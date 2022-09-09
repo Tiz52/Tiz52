@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter and NestJS**
 
-- 💬 Ask me about **React, React Native and Next.js**
+- 💬 Ask me about **React, React Native, Next.js and Node js**
 
 - 📫 How to reach me **carls.mrz@gmail.com**
 
