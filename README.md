@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Notes - Note-taking app**
 
-- 🌱 I’m currently learning **Flutter and NestJS**
+- 🌱 I’m currently learning **NestJS and Django**
 
-- 💬 Ask me about **React, React Native, Next.js and Node js**
+- 💬 Ask me about **React, Flutter, React Native, Next.js and Node js**
 
 - 📫 How to reach me **carls.mrz@gmail.com**
 
