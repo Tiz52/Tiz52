@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">FullStack developer and software engineering student</h3>
 
-<p align="left"> <a href="https://twitter.com/25crls" target="blank"><img src="https://img.shields.io/twitter/follow/25crls?logo=twitter&style=for-the-badge" alt="25crls" /></a> </p>
-
-- 🔭 I’m currently working on **Notes - Note-taking app**
-
-- 🌱 I’m currently learning **NestJS and Django**
-
-- 💬 Ask me about **React, Flutter, React Native, Next.js and Node js**
-
-- 📫 How to reach me **carls.mrz@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/25crls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="25crls" height="30" width="40" /></a>
